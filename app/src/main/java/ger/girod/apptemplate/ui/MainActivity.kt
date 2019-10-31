@@ -1,7 +1,8 @@
-package ger.girod.apptemplate
+package ger.girod.apptemplate.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ger.girod.apptemplate.R
 
 class MainActivity : AppCompatActivity() {
 
